@@ -41,5 +41,10 @@
     "eslint-plugin-react": "7.31.7",
     "eslint-plugin-react-hooks": "4.6.0",
     "@typescript-eslint/utils": "5.36.2"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "puppeteer": "^17.1.2",
+    "x-ray": "^2.3.4"
   }
 }
