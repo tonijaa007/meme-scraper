@@ -44,8 +44,10 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
     "node-fetch": "^3.2.10",
     "puppeteer": "^17.1.2",
+    "request": "^2.88.2",
     "x-ray": "^2.3.4"
   }
 }
